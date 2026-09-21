@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I'm Divya 👋
+QA / Software Testing Intern | Manual Testing | Python | SQL
 
-<!--
-**divyakalival/divyakalival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA / Software Testing Intern at iFocusSystec, interested in software quality, automation, and continuous learning.
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Manual Testing
+
+Python
+
+SQL
+
+API Testing
+
+Selenium — Learning
+
+DSA — Learning
+
+💼 Experience
+
+QA / Software Testing Intern — iFocusSystec
+
+Currently gaining hands-on experience in software testing and quality assurance.
+
+📂 Projects
+🗳️ Electronic Voting System
+
+Worked on testing an electronic voting application and validating its functionality.
+
+🛒 ShopperStack
+
+Worked on testing an e-commerce application and validating key user workflows.
+
+🎯 Currently Learning
+
+Selenium Automation
+
+Data Structures & Algorithms
+
+Test Automation
+
+📫 Connect With Me
+
+LinkedIn: [Your LinkedIn]
+
+Email: [Your Email]
+
+⭐ Thanks for visiting my profile!
